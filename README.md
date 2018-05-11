@@ -1,14 +1,12 @@
 # mac-setup
 List when setting up new mac
 
-##
+## Terminal
 - [ ] Install [Homebrew](https://brew.sh/)
 - [ ] Install [brewfiles](https://github.com/kotalab/mac-setup/blob/master/brewfile)
 - [ ] Install [iTerm2](https://www.iterm2.com/)
 - [ ] Login [Github](https://github.com)
 - [ ] Setup [Dotfiles](https://github.com/kotalab/dotfiles)
-
-## Terminal
 - [ ] Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [ ] Setup color theme [solarized dark](https://github.com/altercation/solarized)
 - [ ] Install [powerline-shell](https://github.com/b-ryan/powerline-shell)
