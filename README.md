@@ -6,15 +6,16 @@ List when setting up new mac
 - [ ] Install [brewfiles](https://github.com/kotalab/mac-setup/blob/master/brewfile)
 - [ ] Install [iTerm2](https://www.iterm2.com/)
 - [ ] Login [Github](https://github.com)
-- [ ] Setup [Dotfiles](https://github.com/kotalab/dotfiles)
 - [ ] Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [ ] Setup color theme [solarized dark](https://github.com/altercation/solarized)
 - [ ] Install [powerline-shell](https://github.com/b-ryan/powerline-shell)
 - [ ] Setup [Meslo powerline font](https://github.com/powerline/fonts)
+- [ ] Setup [Dotfiles](https://github.com/kotalab/dotfiles)
 
 ## Alfred
 - [ ] Install [Alfred](https://www.alfredapp.com/)
 - [ ] Enable shortcut `CMD + space`
+- [ ] Activate Powerpack
 - [ ] Setup workflow and snippet from Dropbox
 
 ## Atom
@@ -38,9 +39,11 @@ List when setting up new mac
 
 ## Other
 - [ ] Cut animations
-  - [ ] `$ defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
-  - [ ] `$ defaults write com.apple.finder DisableAllAnimations -boolean true; killall Finder`
-  - [ ] `$ defaults write com.apple.finder AppleShowAllFiles true;killall Finder`
+  - [ ] `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
+  - [ ] `defaults write com.apple.finder DisableAllAnimations -boolean true; killall Finder`
+  - [ ] `defaults write com.apple.finder AppleShowAllFiles true;killall Finder`
+  - [ ] Cut animation runnning application(System Preferences -> Dock)
 - [ ] Increase trackpad speed(System Preferences -> Trackpad -> Point&Click)
 - [ ] Increase keyboard key repeat speed, decrease delay(System Preferences -> Keyboard -> Keyboard)
 - [ ] Enable zoom for `control + scrolling`(System Preferences -> Accessibility -> Zoom)
+- [ ] Dock automatically show/hide(System Preferences -> Dock)
