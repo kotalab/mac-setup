@@ -1,3 +1,4 @@
 brew install zsh
 brew install rbenv
 brew install python
+brew install hub
