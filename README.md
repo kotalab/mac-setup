@@ -16,6 +16,7 @@ List when setting up new mac
 - [ ] Install [Alfred](https://www.alfredapp.com/)
 - [ ] Enable shortcut `CMD + space`
 - [ ] Activate Powerpack
+- [ ] Setup theme [solarized](https://github.com/deanishe/alfred-themes)
 - [ ] Setup workflow and snippet from Dropbox
 
 ## Atom
