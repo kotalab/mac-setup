@@ -48,3 +48,4 @@ List when setting up new mac
 - [ ] Increase keyboard key repeat speed, decrease delay(System Preferences -> Keyboard -> Keyboard)
 - [ ] Enable zoom for `control + scrolling`(System Preferences -> Accessibility -> Zoom)
 - [ ] Dock automatically show/hide(System Preferences -> Dock)
+- [ ] Delete all icon from Dock
