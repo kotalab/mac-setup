@@ -12,7 +12,7 @@ List when setting up new mac
 - [ ] Setup [Meslo powerline font](https://github.com/powerline/fonts)
 - [ ] Setup [Dotfiles](https://github.com/kotalab/dotfiles)
 
-## VS Code
+## Alfred
 - [ ] Install [Alfred](https://www.alfredapp.com/)
 - [ ] Enable shortcut `CMD + space`
 - [ ] Activate Powerpack
