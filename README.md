@@ -12,18 +12,16 @@ List when setting up new mac
 - [ ] Setup [Meslo powerline font](https://github.com/powerline/fonts)
 - [ ] Setup [Dotfiles](https://github.com/kotalab/dotfiles)
 
-## Alfred
+## VS Code
 - [ ] Install [Alfred](https://www.alfredapp.com/)
 - [ ] Enable shortcut `CMD + space`
 - [ ] Activate Powerpack
 - [ ] Setup theme [solarized](https://github.com/deanishe/alfred-themes)
 - [ ] Setup workflow and snippet from Dropbox
 
-## Atom
-- [ ] Install [Atom](https://atom.io/)
-- [ ] Install packages `apm stars --install`
-- [ ] Setup Syntax Theme [solarized dark](https://github.com/atom/solarized-dark-syntax)
-- [ ] Setup UI Theme [Atom Material](https://atom.io/themes/atom-material-ui)
+## VS Code
+- [ ] Install [VS Code](https://code.visualstudio.com/download)
+- [ ] Sync settings.json from [Dotfiles](https://github.com/kotalab/dotfiles)
 
 ## Hazel
 - [ ] Install [Hazel](http://www.noodlesoft.com/)
@@ -33,7 +31,6 @@ List when setting up new mac
 - [ ] Install [Magnet](https://itunes.apple.com/jp/app/magnet-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88/id441258766?mt=12)
 - [ ] Install [Clipy](https://clipy-app.com/)
 - [ ] Install [1password](https://1password.com/)
-- [ ] Install [rescuetime](https://www.rescuetime.com/)
 - [ ] Install [Aware](https://itunes.apple.com/jp/app/aware/id1082170746?mt=12)
 - [ ] Install [Tweetbot](https://itunes.apple.com/jp/app/tweetbot-for-twitter/id557168941?mt=12)
 - [ ] Install [Applewatch screensaver](http://www.rasmusnielsen.dk/applewatch/)
