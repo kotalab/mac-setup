@@ -37,6 +37,7 @@ List when setting up new mac
 - [ ] Install [Aware](https://itunes.apple.com/jp/app/aware/id1082170746?mt=12)
 - [ ] Install [Tweetbot](https://itunes.apple.com/jp/app/tweetbot-for-twitter/id557168941?mt=12)
 - [ ] Install [Applewatch screensaver](http://www.rasmusnielsen.dk/applewatch/)
+- [ ] Install [karabiner-elements](https://pqrs.org/osx/karabiner/)
 
 ## Other
 - [ ] Cut animations
