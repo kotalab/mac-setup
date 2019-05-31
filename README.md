@@ -54,3 +54,8 @@ List when setting up new mac
   - [ ] `defaults write com.apple.finder DisableAllAnimations -boolean true; killall Finder`
   - [ ] `defaults write com.apple.finder AppleShowAllFiles true;killall Finder`
 - [ ] Enable zoom for `control + scrolling`(System Preferences -> Accessibility -> Zoom)
+- [ ] Create rsa key and add ssh key [Github](https://github.com/settings/keys)
+    ```shell
+    $ cd ~/.ssh
+    $ ssh-keygen -t rsa
+    ```
