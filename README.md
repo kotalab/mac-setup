@@ -37,17 +37,20 @@ List when setting up new mac
 - [ ] Install [karabiner-elements](https://pqrs.org/osx/karabiner/)
 
 ## Other
-- [ ] Cut animations
-  - [ ] `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
-  - [ ] `defaults write com.apple.finder DisableAllAnimations -boolean true; killall Finder`
-  - [ ] `defaults write com.apple.finder AppleShowAllFiles true;killall Finder`
+- [ ] Keyboard and Trackpad
+  - [ ] Increase trackpad speed(System Preferences -> Trackpad -> Point&Click)
+  - [ ] Increase keyboard key repeat speed(System Preferences -> Keyboard -> Keyboard)
+  - [ ] Decrease keyboard key delay(System Preferences -> Keyboard -> Keyboard)
+- [ ] Dock
   - [ ] Cut animation runnning application(System Preferences -> Dock)
-- [ ] Increase trackpad speed(System Preferences -> Trackpad -> Point&Click)
-- [ ] Increase keyboard key repeat speed, decrease delay(System Preferences -> Keyboard -> Keyboard)
-- [ ] Enable zoom for `control + scrolling`(System Preferences -> Accessibility -> Zoom)
-- [ ] Dock automatically show/hide(System Preferences -> Dock)
-- [ ] Delete all icon from Dock
+  - [ ] Dock automatically show/hide(System Preferences -> Dock)
+  - [ ] Delete all icon from Dock
 - [ ] Security & Privacy
   - [ ] Require password `immediately`
   - [ ] Turn on FileVault
   - [ ] Turn on Firewall
+- [ ] Cut animations
+  - [ ] `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
+  - [ ] `defaults write com.apple.finder DisableAllAnimations -boolean true; killall Finder`
+  - [ ] `defaults write com.apple.finder AppleShowAllFiles true;killall Finder`
+- [ ] Enable zoom for `control + scrolling`(System Preferences -> Accessibility -> Zoom)
