@@ -47,3 +47,7 @@ List when setting up new mac
 - [ ] Enable zoom for `control + scrolling`(System Preferences -> Accessibility -> Zoom)
 - [ ] Dock automatically show/hide(System Preferences -> Dock)
 - [ ] Delete all icon from Dock
+- [ ] Security & Privacy
+  - [ ] Require password `immediately`
+  - [ ] Turn on FileVault
+  - [ ] Turn on Firewall
