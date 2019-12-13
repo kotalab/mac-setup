@@ -3,7 +3,7 @@ List when setting up new mac
 
 ## Terminal
 - [ ] Install [Homebrew](https://brew.sh/)
-- [ ] Install [brewfiles](https://github.com/kotalab/mac-setup/blob/master/brewfile)
+- [ ] Install [Brewfile](./Brewfile)
 - [ ] Install [iTerm2](https://www.iterm2.com/)
 - [ ] Login [Github](https://github.com)
 - [ ] Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
