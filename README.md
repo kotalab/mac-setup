@@ -3,9 +3,7 @@ List when setting up new mac
 
 ## Terminal
 - [ ] Install [Homebrew](https://brew.sh/)
-- [ ] Install [Brewfile](./Brewfile)
-- [ ] Install [Caskfile](./Caskfile)
-- [ ] Install [iTerm2](https://www.iterm2.com/)
+- [ ] Install [Brewfile](./Brewfile) `$ brew bundle install`
 - [ ] Login [Github](https://github.com)
 - [ ] Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [ ] Setup color theme [solarized dark](https://github.com/altercation/solarized)
@@ -14,28 +12,16 @@ List when setting up new mac
 - [ ] Setup [Dotfiles](https://github.com/kotalab/dotfiles)
 
 ## Alfred
-- [ ] Install [Alfred](https://www.alfredapp.com/)
 - [ ] Enable shortcut `CMD + space`
 - [ ] Activate Powerpack
 - [ ] Setup theme [solarized](https://github.com/deanishe/alfred-themes)
 - [ ] Setup workflow and snippet from Dropbox
 
-## VS Code
-- [ ] Install [VS Code](https://code.visualstudio.com/download)
-- [ ] Sync settings.json from [Dotfiles](https://github.com/kotalab/dotfiles)
-
 ## Hazel
-- [ ] Install [Hazel](http://www.noodlesoft.com/)
 - [ ] Setup license and rule from Dropbox
 
 ## Install
-- [ ] Install [Magnet](https://itunes.apple.com/jp/app/magnet-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88/id441258766?mt=12)
-- [ ] Install [Clipy](https://clipy-app.com/)
-- [ ] Install [1password](https://1password.com/)
-- [ ] Install [Aware](https://itunes.apple.com/jp/app/aware/id1082170746?mt=12)
-- [ ] Install [Tweetbot](https://itunes.apple.com/jp/app/tweetbot-for-twitter/id557168941?mt=12)
 - [ ] Install [Applewatch screensaver](http://www.rasmusnielsen.dk/applewatch/)
-- [ ] Install [karabiner-elements](https://pqrs.org/osx/karabiner/)
 
 ## Other
 - [ ] Keyboard and Trackpad
