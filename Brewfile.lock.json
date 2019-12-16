@@ -5,10 +5,10 @@
         "revision": "491e2fbd399d1467f3cfab7fe4c4f07b17bfab7f"
       },
       "homebrew/cask": {
-        "revision": "117a209024a70e5f4a40ee81d8c37e74b1febcb1"
+        "revision": "ccc44cb208e3209bffc34df1616aed8a4ebb91b0"
       },
       "homebrew/core": {
-        "revision": "a9d3a2cfc6a8ef0f25b6aca1a6e77c00e18b203c"
+        "revision": "402dd6d930916da19dbe481e4d28bb4a624a6fac"
       }
     },
     "brew": {
@@ -256,7 +256,7 @@
     "mas": {
       "1Password": {
         "id": "443987910",
-        "version": "6.8.8"
+        "version": "6.8.9"
       },
       "Aware": {
         "id": "1082170746",
@@ -301,7 +301,7 @@
       "catalina": {
         "HOMEBREW_VERSION": "2.2.1",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "a9d3a2cfc6a8ef0f25b6aca1a6e77c00e18b203c",
+        "Homebrew/homebrew-core": "402dd6d930916da19dbe481e4d28bb4a624a6fac",
         "CLT": "",
         "Xcode": "11.3",
         "macOS": "10.15.1"
