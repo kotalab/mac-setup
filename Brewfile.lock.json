@@ -2,13 +2,13 @@
   "entries": {
     "tap": {
       "homebrew/bundle": {
-        "revision": "491e2fbd399d1467f3cfab7fe4c4f07b17bfab7f"
+        "revision": "8c0ab71c3de2b84af4c35e50fc7f0fd3a6971c9c"
       },
       "homebrew/cask": {
-        "revision": "ccc44cb208e3209bffc34df1616aed8a4ebb91b0"
+        "revision": "c61d292976e350140bf03cb74d900ff4ab08eef7"
       },
       "homebrew/core": {
-        "revision": "402dd6d930916da19dbe481e4d28bb4a624a6fac"
+        "revision": "bde6de7cfcf7074aad8109a3e3221dfe9bcdb0e1"
       }
     },
     "brew": {
@@ -118,22 +118,22 @@
         }
       },
       "node": {
-        "version": "13.3.0",
+        "version": "13.5.0",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/node-13.3.0.catalina.bottle.tar.gz",
-              "sha256": "1c1704aad73b2c4cd45c3e3e9f358f9c2476d4528009334b13b90f6ffcc4c8a3"
+              "url": "https://homebrew.bintray.com/bottles/node-13.5.0.catalina.bottle.tar.gz",
+              "sha256": "5a017bf46c0bea9daa538e1fce9cabaed95f9493708d829bbbfd54e96d57788b"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/node-13.3.0.mojave.bottle.tar.gz",
-              "sha256": "75dcefb957a959b40a5ba8046ac23a1ae4df23816a35c6f207307aedcd81a220"
+              "url": "https://homebrew.bintray.com/bottles/node-13.5.0.mojave.bottle.tar.gz",
+              "sha256": "59bff217da4b81b562494e11f7d67c59d4af7643a149629ca579d773594da2d9"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/node-13.3.0.high_sierra.bottle.tar.gz",
-              "sha256": "099b9385d400785c20f92a4728c7f4a2aefc6d0d82cdd0916d101703090e0678"
+              "url": "https://homebrew.bintray.com/bottles/node-13.5.0.high_sierra.bottle.tar.gz",
+              "sha256": "d5653f6256b9c70966be4c071cbaa9852c4966643e0bcfa07c7b230f703c218d"
             }
           }
         }
@@ -208,7 +208,7 @@
         "version": "5.0.2"
       },
       "dbeaver-community": {
-        "version": "6.3.0"
+        "version": "6.3.1"
       },
       "docker": {
         "version": "2.1.0.5,40693"
@@ -264,11 +264,11 @@
       },
       "Bear": {
         "id": "1091189122",
-        "version": "1.7.6"
+        "version": "1.7.7"
       },
       "Evernote": {
         "id": "406056744",
-        "version": "7.13"
+        "version": "7.14"
       },
       "Keynote": {
         "id": "409183694",
@@ -299,9 +299,9 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.2.1",
+        "HOMEBREW_VERSION": "2.2.2",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "402dd6d930916da19dbe481e4d28bb4a624a6fac",
+        "Homebrew/homebrew-core": "bde6de7cfcf7074aad8109a3e3221dfe9bcdb0e1",
         "CLT": "",
         "Xcode": "11.3",
         "macOS": "10.15.1"
