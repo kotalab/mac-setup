@@ -2,13 +2,13 @@
   "entries": {
     "tap": {
       "homebrew/bundle": {
-        "revision": "8c0ab71c3de2b84af4c35e50fc7f0fd3a6971c9c"
+        "revision": "ea8fd4ebaf85a7744749643f2568113930329503"
       },
       "homebrew/cask": {
-        "revision": "c61d292976e350140bf03cb74d900ff4ab08eef7"
+        "revision": "eb6fcdadc5ed563f35723a18f7d2c792280bfbc3"
       },
       "homebrew/core": {
-        "revision": "bde6de7cfcf7074aad8109a3e3221dfe9bcdb0e1"
+        "revision": "dc0492178d710889bb28cee91006232eed6061f7"
       }
     },
     "brew": {
@@ -55,22 +55,22 @@
         }
       },
       "python": {
-        "version": "3.7.5",
+        "version": "3.7.6",
         "bottle": {
           "cellar": "/usr/local/Cellar",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/python-3.7.5.catalina.bottle.tar.gz",
-              "sha256": "623d2a1110674974c0ea3ff0498c1ac865b858ba5293bdc29f3ce4dbd421fd42"
+              "url": "https://homebrew.bintray.com/bottles/python-3.7.6.catalina.bottle.tar.gz",
+              "sha256": "f9053f7d2b371b6c1960e790be5603f8662d65f44bfdfe2c3854ac287f10d705"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/python-3.7.5.mojave.bottle.tar.gz",
-              "sha256": "bcbdc3612a10d06facca7ec9499265731d530c8273b1a2dc28f16258d4410552"
+              "url": "https://homebrew.bintray.com/bottles/python-3.7.6.mojave.bottle.tar.gz",
+              "sha256": "011f76aac1362a7df8618ec10751a87b3745afccabfdf5e354f9980f04e9b064"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/python-3.7.5.high_sierra.bottle.tar.gz",
-              "sha256": "32e080b97e0075d2563c1f454e6925dbdd57ad683b857fc2a42e46a0a30959f6"
+              "url": "https://homebrew.bintray.com/bottles/python-3.7.6.high_sierra.bottle.tar.gz",
+              "sha256": "853a5c89053fa747daf1779a515df60648b56968317aa8865dfdd058f1520bad"
             }
           }
         }
@@ -301,10 +301,10 @@
       "catalina": {
         "HOMEBREW_VERSION": "2.2.2",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "bde6de7cfcf7074aad8109a3e3221dfe9bcdb0e1",
+        "Homebrew/homebrew-core": "dc0492178d710889bb28cee91006232eed6061f7",
         "CLT": "",
         "Xcode": "11.3",
-        "macOS": "10.15.1"
+        "macOS": "10.15.2"
       }
     }
   }
