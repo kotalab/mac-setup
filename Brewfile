@@ -3,10 +3,14 @@ tap "homebrew/cask"
 tap "homebrew/core"
 brew "gh"
 brew "git"
-brew "hub"
 brew "mas"
+brew "node-build"
+brew "nodenv"
+brew "python@3.9"
 brew "ruby-build"
 brew "rbenv"
+brew "vapor"
+brew "zsh-completions"
 cask "alfred"
 cask "clipy"
 cask "dbeaver-community"
@@ -32,8 +36,12 @@ mas "Bear", id: 1091189122
 mas "Evernote", id: 406056744
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
+mas "Keepa - Price Tracker", id: 1533805339
 mas "Keynote", id: 409183694
+mas "LINE", id: 539883307
 mas "Magnet", id: 441258766
+mas "Messenger", id: 1480068668
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Tweetbot", id: 1384080005
+mas "Xcode", id: 497799835
